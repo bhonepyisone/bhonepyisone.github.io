@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"MetadataBoundary"]
+9:I[27201,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"IconMark"]
+b:I[39756,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"default"]
+c:I[37457,["/_next/static/chunks/1aflf8jqovzbu.js","/_next/static/chunks/1t44q5u-rd2q0.js","/_next/static/chunks/1w6cndwplt6s9.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"ra56sHlwFoNm6y2g-UcF2","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"display-flex position-relative pb-160 flex-column center fill min-height-0 min-width-0 ","style":{},"children":[["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{},"children":"404"}],["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textWrap":"balance"},"children":"Page Not Found"}],["$","span",null,{"className":"neutral-on-background-weak","style":{},"children":"The page you are looking for does not exist."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Bhone Pyi Sone – AI-powered Full-stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of Bhone Pyi Sone: AI-powered full-stack developer building ERP/POS/CRM systems, OCR tools, and automation workflows."}],["$","meta","2",{"property":"og:title","content":"Bhone Pyi Sone – AI-powered Full-stack Developer"}],["$","meta","3",{"property":"og:description","content":"Portfolio of Bhone Pyi Sone: AI-powered full-stack developer building ERP/POS/CRM systems, OCR tools, and automation workflows."}],["$","meta","4",{"property":"og:url","content":"https://bhonepyisone.github.io"}],["$","meta","5",{"property":"og:image","content":"https://bhonepyisone.github.io/images/og/home.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Bhone Pyi Sone – AI-powered Full-stack Developer"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Bhone Pyi Sone – AI-powered Full-stack Developer"}],["$","meta","10",{"name":"twitter:description","content":"Portfolio of Bhone Pyi Sone: AI-powered full-stack developer building ERP/POS/CRM systems, OCR tools, and automation workflows."}],["$","meta","11",{"name":"twitter:image","content":"https://bhonepyisone.github.io/images/og/home.jpg"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2d94g_gtj9-dr.ico","sizes":"120x120","type":"image/x-icon"}],["$","$L9","13",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"
